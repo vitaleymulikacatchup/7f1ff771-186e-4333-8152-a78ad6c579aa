@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -235,8 +235,8 @@ export default function Home() {
               description: "Visionary designer leading Gucci's creative renaissance with innovative approaches to luxury fashion.",
               imageSrc: "https://images.pexels.com/photos/34425494/pexels-photo-34425494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               socialLinks: [
-                { icon: "Instagram", url: "https://instagram.com/alessandro" },
-                { icon: "Twitter", url: "https://twitter.com/alessandro" }
+                { icon: Instagram, url: "https://instagram.com/alessandro" },
+                { icon: Twitter, url: "https://twitter.com/alessandro" }
               ]
             },
             {
@@ -246,8 +246,8 @@ export default function Home() {
               description: "Award-winning stylist orchestrating the visual narrative of our Paris collection.",
               imageSrc: "https://images.pexels.com/photos/8516938/pexels-photo-8516938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               socialLinks: [
-                { icon: "Instagram", url: "https://instagram.com/sophia" },
-                { icon: "Linkedin", url: "https://linkedin.com/in/sophia" }
+                { icon: Instagram, url: "https://instagram.com/sophia" },
+                { icon: Linkedin, url: "https://linkedin.com/in/sophia" }
               ]
             },
             {
@@ -257,8 +257,8 @@ export default function Home() {
               description: "Master of fashion show production bringing two decades of runway experience.",
               imageSrc: "https://images.pexels.com/photos/34425494/pexels-photo-34425494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               socialLinks: [
-                { icon: "Twitter", url: "https://twitter.com/marco" },
-                { icon: "Globe", url: "https://marcovenetian.com" }
+                { icon: Twitter, url: "https://twitter.com/marco" },
+                { icon: Globe, url: "https://marcovenetian.com" }
               ]
             },
             {
@@ -268,8 +268,8 @@ export default function Home() {
               description: "Leading the design team in creating pieces that define contemporary luxury.",
               imageSrc: "https://images.pexels.com/photos/6896322/pexels-photo-6896322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               socialLinks: [
-                { icon: "Instagram", url: "https://instagram.com/isabella" },
-                { icon: "Linkedin", url: "https://linkedin.com/in/isabella" }
+                { icon: Instagram, url: "https://instagram.com/isabella" },
+                { icon: Linkedin, url: "https://linkedin.com/in/isabella" }
               ]
             }
           ]}
