@@ -47,7 +47,7 @@ export default function Home() {
             { text: "Reserve Seats", href: "pricing" },
             { text: "View Collections", href: "feature" }
           ]}
-          imageSrc="https://images.pexels.com/photos/9511240/pexels-photo-9511240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Gucci fashion show runway in Paris"
           imagePosition="right"
         />
